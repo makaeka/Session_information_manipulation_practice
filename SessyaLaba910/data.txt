@@ -1,0 +1,14 @@
+﻿. Ivanov,Ivan,Ivanovich 05.03.22 7 Mathematics
+. Petrov,Petr,Petrovich 06.03.22 8 Physics
+. Sidorov,Semen,Semenovich 07.03.22 10 Chemistry
+. Antonov,Anton,Antonovich 08.03.22 7 History of Belarus
+. Kozlov,Kirill,Aleksandrovich 09.03.22 7 Geography
+. Smirnova,Olga,Igorevna 10.03.22 3 Literature
+. Vasilieva,Anastasia,Vladimirovna 11.03.22 10 Biology
+. Sokolov,Dmitry,Vladimirovich 12.03.22 5 History
+. Morozov,Ivan,Andreevich 13.03.22 3 Mathematics
+. Kovalenko,Maria,Petrovna 14.03.22 2 Physics
+. Ivanova,Ekaterina,Sergeevna 15.03.22 9 History of Belarus
+. Pavlov,Alexey,Anatolyevich 16.03.22 1 Geography
+. Zakharova,Yulia,Nikolaevna 17.03.22 4 Literature
+. Nikitin,Sergey,Alexandrovich 18.03.22 7 History of Belarus
